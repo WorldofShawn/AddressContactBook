@@ -27,7 +27,7 @@ while True:
         elif friend_search.lower() == "erase":
             contact_name = input("Enter contact Name: ")
             for line in friends:
-                if line.lower().startswith(contact_name)==True:
+                if line.startswith(contact_name)==True:
                     friends.remove(line)
                     contact_found=True
             if contact_found == False:
