@@ -1,0 +1,7 @@
+Tommy - AutoCAD Tech, 9051234567, Tommy@uwaterloo.ca
+Mark - Salesman, 9051324657, Mark@uwaterloo.ca
+Jessie - Receptionist, 6471234567, Jessie@uwaterloo.ca
+Shawn - Project Manager, 6471112222, Shawn@uwaterloo.ca
+Ollie - Accountant Manager, 4162223333, Ollie@uwaterloo.ca
+Jason - Estimator, 4161111234, Jason@uwaterloo.ca
+Jack - Production Manager, 6471235555, Jack@uwaterloo.ca
